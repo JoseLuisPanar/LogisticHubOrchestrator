@@ -39,3 +39,9 @@ Regla de dependencia: `Api → Infrastructure → Application → Domain`. Domai
 ## Commits
 - Mensajes en formato Conventional Commits (`feat:`, `fix:`, `refactor:`, `docs:`, `chore:`, `test:`).
 - Un commit por cambio lógico; evitar commits mezclando backend y frontend salvo que sea un mismo cambio funcional.
+- feat — funcionalidad nueva
+- fix — corrección de un error
+- refactor — cambio interno del código sin alterar funcionalidad
+- docs — cambios en documentación
+- chore — tareas de mantenimiento sin impacto en el código de producción
+- test — añadir o modificar pruebas
